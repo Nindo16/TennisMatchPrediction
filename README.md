@@ -6,7 +6,7 @@ Ce projet vise à prédire les gagnants de matchs de tennis basés sur un jeu de
 ## Processus
 
 ### 1. Nettoyage des Données
-- **Vérification du Type de Variables** : Avant tout traitement, une inspection initiale a été réalisée pour s'assurer que les colonnes du jeu de données étaient du bon type. 
+- **Vérification du Type de Variables** : Avant tout traitement, une inspection initiale a été réalisée pour s'assurer qu'il n'y avait pas de problème dans les données.
 - **Analyse des Valeurs Manquantes** : Une exploration des valeurs manquantes a été réalisée pour identifier leur origine et décider des actions à entreprendre.
 - **Duplication des Lignes** : Les lignes ont été dupliquées pour pouvoir effectuer les prédictions.
 
